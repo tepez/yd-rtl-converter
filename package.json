@@ -1,0 +1,26 @@
+{
+  "name": "yd-rtl-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tepez/yd-rtl-converter.git"
+  },
+  "author": "Tom Tepez Yam <tomyam1@gmail.com> (https://github.com/tepez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tepez/yd-rtl-converter/issues"
+  },
+  "homepage": "https://github.com/tepez/yd-rtl-converter#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "gulp-load-plugins": "^0.10.0",
+    "gulp": "^3.9.0",
+    "gulp-cssjanus": "^0.1.0"
+  }
+}

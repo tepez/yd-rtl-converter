@@ -1,0 +1,12 @@
+.idea/
+
+# temporary files
+*.sw*
+*~
+
+# vendor files
+node_modules/
+bower_components/
+
+
+dst/*
